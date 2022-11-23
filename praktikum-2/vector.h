@@ -21,14 +21,14 @@ void CreateVector(VECTOR *v, float x, float y);
 void TulisVector(VECTOR v);
 /* Nilai v ditulis ke layar dengan format "<X,Y>"
    tanpa spasi, enter, atau karakter lain di depan, belakang, atau di antaranya
-   Output X dan Y harus dituliskan dalam bilangan riil dengan 2 angka di belakang koma.
+   Output X dan Y harus dituliskan dalam bilangan riil dengan praktikum-2 angka di belakang koma.
 */
 /* I.S. v terdefinisi */
 /* F.S. v tertulis di layar dengan format "<X,Y>" */
 
 /* *** KELOMPOK OPERASI LAIN TERHADAP TYPE *** */
 float Magnitude(VECTOR v);
-/* Menghasilkan magnitudo dari vector, yakni sqrt(v.x^2+v.y^2) */
+/* Menghasilkan magnitudo dari vector, yakni sqrt(v.x^praktikum-2+v.y^praktikum-2) */
 VECTOR Add(VECTOR a, VECTOR b);
 /* Menghasilkan sebuah vector yang merupakan hasil a + b.
    Komponen absis vector hasil adalah vector pertama

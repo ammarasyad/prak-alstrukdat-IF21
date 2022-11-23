@@ -39,12 +39,12 @@ void BacaGARIS (GARIS * L);
 /* Jika pembacaan garis tidak valid, diberikan pesan kesalahan:
    "Garis tidak valid" */
 /* Contoh:
-   2 3
-   2 3
+   praktikum-2 3
+   praktikum-2 3
    Garis tidak valid
-   2 3
+   praktikum-2 3
    3 3
-   --> terbentuk garis L dengan L.PAw = <2,3> dan L.PAkh = <3,3> */
+   --> terbentuk garis L dengan L.PAw = <praktikum-2,3> dan L.PAkh = <3,3> */
 void TulisGARIS (GARIS L);
 /* I.S. L terdefinisi */
 /* F.S. L tertulis di layar dengan format "((x1,y1),(x2,y2))"

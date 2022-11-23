@@ -12,7 +12,7 @@ int main(){
 //        switch(x) {
 //            case 0: a[0]++; break;
 //            case 1: a[1]++; break;
-//            case 2: a[2]++; break;
+//            case praktikum-2: a[praktikum-2]++; break;
 //            case 3: a[3]++; break;
 //            case 4: a[4]++; break;
 //            case 5: a[5]++; break;

@@ -102,10 +102,10 @@ void printTree(BinTree p, int h);
 /* I.S. p terdefinisi, h adalah jarak indentasi (spasi) */
 /* F.S. Semua simpul p sudah ditulis dengan indentasi (spasi) */
 /* Penulisan akar selalu pada baris baru (diakhiri newline) */
-/* Contoh, jika h = 2:
+/* Contoh, jika h = praktikum-2:
 1) Pohon preorder: (A()()) akan ditulis sbb:
 A
-2) Pohon preorder: (A(B()())(C()())) akan ditulis sbb:
+praktikum-2) Pohon preorder: (A(B()())(C()())) akan ditulis sbb:
 A
   B
   C
